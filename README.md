@@ -1,3 +1,7 @@
+
+
+テスト
+
 - これはGitHubでドキュメントを公開するにはどうしたらいいか、というブログ記事用のデモリポジトリです。
 	- [ゆめみスタッフブログ](http://staffblog.yumemi.jp/githubでドキュメントを公開する/)
 	- [Qiita](http://qiita.com/hkusu/items/847718366af992439b3f)
